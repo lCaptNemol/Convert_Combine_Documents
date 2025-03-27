@@ -1,5 +1,7 @@
 Hello this is Github Repository is a assemblage of tools to help combine 
 Word docs and PDFs together to make them easier to upload and share.
 
-Moreover it can mass convert Word Docs to Electronic Friendly PDFs.
+Moreover it can convert Word Docs to Electronic Friendly PDFs. Though their a permission errors.
+
+This project has been tested on a Mac, not sure how well it works on Windows computers.
 
