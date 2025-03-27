@@ -4,4 +4,6 @@ Word docs and PDFs together to make them easier to upload and share.
 Moreover it can convert Word Docs to Electronic Friendly PDFs. Though their a permission errors.
 
 This project has been tested on a Mac, not sure how well it works on Windows computers.
+I used VS Code to run the scripts.
 
+Cool thing is ChatGPT did 95% of the coding.
